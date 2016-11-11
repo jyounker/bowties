@@ -11,11 +11,11 @@ These are the files need to 3D print a bowtie clip, to be used with a laser-cut 
 
 ##Instructions:
 
-* Laser cut or scissor cut bowtie_v3.svg
-    * if you need to modify size/shape, pull bowtie_components_v3.svg into Inkscape and have at it
-    * line up the cutouts, press/fold the tie
-* 3D print bowtie-clip-v3.stl
-    * if you need to modify size/shape, pull bowtie-clip-v3.123dx into 123Design and have at it
+* Laser cut or scissor cut [bowtie_v3.svg](https://github.com/jyounker/bowties/blob/master/bowtie_v3.svg)
+    * if you need to modify size/shape, pull [bowtie_components_v3.svg](https://github.com/jyounker/bowties/blob/master/bowtie_components_v3.svg] into Inkscape and have at it
+    * line up the cutouts (slots), press/fold the tie
+* 3D print [bowtie-clip-v3.stl](https://github.com/jyounker/bowties/blob/master/bowtie-clip-v3.stl)
+    * if you need to modify size/shape, pull [bowtie-clip-v3.123dx](https://github.com/jyounker/bowties/blob/master/bowtie-clip-v3.123dx) into 123Design and have at it
 * Slip the tie through the clip
 * Add the elastics to the cut-outs on the back of the clip.  You can sew or tie the elastic together
 * Rock your new bowtie!
